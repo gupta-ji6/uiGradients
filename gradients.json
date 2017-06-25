@@ -997,5 +997,9 @@
     {
       "name": "Purpink",
       "colors": ["#7F00FF", "#E100FF"]
+    },
+    {
+        "name": "Blue Night",
+        "colors": ["30cfd0", "330867"]
     }
 ]
